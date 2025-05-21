@@ -1,0 +1,15 @@
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/bin/Debug/net8.0/eCommerece.API.Infrastructure.deps.json
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/bin/Debug/net8.0/eCommerece.API.Infrastructure.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/bin/Debug/net8.0/eCommerece.API.Infrastructure.pdb
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/bin/Debug/net8.0/eCommerece.API.Core.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/bin/Debug/net8.0/eCommerece.API.Core.pdb
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommerece.API.Infrastructure.csproj.AssemblyReference.cache
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommerece.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommerece.API.Infrastructure.AssemblyInfoInputs.cache
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommerece.API.Infrastructure.AssemblyInfo.cs
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommerece.API.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommere.37DA953C.Up2Date
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommerece.API.Infrastructure.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/refint/eCommerece.API.Infrastructure.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommerece.API.Infrastructure.pdb
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/ref/eCommerece.API.Infrastructure.dll

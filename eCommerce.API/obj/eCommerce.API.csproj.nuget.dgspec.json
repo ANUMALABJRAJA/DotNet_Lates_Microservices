@@ -1,0 +1,250 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/eCommerce.API.csproj": {}
+  },
+  "projects": {
+    "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/eCommerce.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/eCommerce.API.csproj",
+        "projectName": "eCommerce.API",
+        "projectPath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/eCommerce.API.csproj",
+        "packagesPath": "/Users/bjrajaanumala/.nuget/packages/",
+        "outputPath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bjrajaanumala/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/eCommerece.API.Core.csproj": {
+                "projectPath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/eCommerece.API.Core.csproj"
+              },
+              "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/eCommerece.API.Infrastructure.csproj": {
+                "projectPath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/eCommerece.API.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/eCommerece.API.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/eCommerece.API.Core.csproj",
+        "projectName": "eCommerece.API.Core",
+        "projectPath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/eCommerece.API.Core.csproj",
+        "packagesPath": "/Users/bjrajaanumala/.nuget/packages/",
+        "outputPath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bjrajaanumala/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/eCommerece.API.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/eCommerece.API.Infrastructure.csproj",
+        "projectName": "eCommerece.API.Infrastructure",
+        "projectPath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/eCommerece.API.Infrastructure.csproj",
+        "packagesPath": "/Users/bjrajaanumala/.nuget/packages/",
+        "outputPath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bjrajaanumala/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/eCommerece.API.Core.csproj": {
+                "projectPath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/eCommerece.API.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.21, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.5, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

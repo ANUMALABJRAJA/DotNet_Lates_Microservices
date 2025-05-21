@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "COgr9R1U/w4=",
+  "success": true,
+  "projectFilePath": "/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/eCommerece.API.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/bjrajaanumala/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
+    "/Users/bjrajaanumala/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/bjrajaanumala/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/bjrajaanumala/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/bjrajaanumala/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.5/microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "/Users/bjrajaanumala/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/bjrajaanumala/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/bjrajaanumala/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
