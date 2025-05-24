@@ -1,0 +1,16 @@
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/bin/Debug/net8.0/BusinessLogicLayer.deps.json
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/bin/Debug/net8.0/BusinessLogicLayer.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/bin/Debug/net8.0/BusinessLogicLayer.pdb
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/bin/Debug/net8.0/DataAccessLayer.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/bin/Debug/net8.0/DataAccessLayer.pdb
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/BusinessLogicLayer.csproj.AssemblyReference.cache
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/BusinessLogicLayer.AssemblyInfoInputs.cache
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/BusinessLogicLayer.AssemblyInfo.cs
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/BusinessLogicLayer.csproj.CoreCompileInputs.cache
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/BusinessLogicLayer.sourcelink.json
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/Business.450209FB.Up2Date
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/BusinessLogicLayer.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/refint/BusinessLogicLayer.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/BusinessLogicLayer.pdb
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/Products/BusinessLogicLayer/obj/Debug/net8.0/ref/BusinessLogicLayer.dll
