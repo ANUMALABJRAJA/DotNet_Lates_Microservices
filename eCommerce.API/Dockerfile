@@ -1,6 +1,6 @@
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
 WORKDIR /app
-EXPOSE 5196
+EXPOSE 9090
 
 ENV ASPNETCORE_URLS=http://+:5196
 
@@ -21,4 +21,6 @@ RUN dotnet publish "eCommerce.API.csproj" -c $configuration -o /app/publish /p:U
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
+ENV POSTGRES_HOST=localhost
+ENV POSTGRES_PASSWORD=1234
 ENTRYPOINT ["dotnet", "eCommerce.API.dll"]

@@ -10,3 +10,4 @@
 /Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/obj/Debug/net8.0/refint/eCommerece.API.Core.dll
 /Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/obj/Debug/net8.0/eCommerece.API.Core.pdb
 /Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/obj/Debug/net8.0/ref/eCommerece.API.Core.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Core/obj/Debug/net8.0/eCommerece.API.Core.sourcelink.json

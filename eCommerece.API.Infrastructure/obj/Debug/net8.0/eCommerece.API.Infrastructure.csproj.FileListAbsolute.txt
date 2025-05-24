@@ -13,3 +13,4 @@
 /Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/refint/eCommerece.API.Infrastructure.dll
 /Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommerece.API.Infrastructure.pdb
 /Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/ref/eCommerece.API.Infrastructure.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerece.API.Infrastructure/obj/Debug/net8.0/eCommerece.API.Infrastructure.sourcelink.json

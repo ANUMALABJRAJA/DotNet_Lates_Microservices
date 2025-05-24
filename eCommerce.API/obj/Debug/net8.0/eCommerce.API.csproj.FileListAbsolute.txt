@@ -39,3 +39,8 @@
 /Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/bin/Debug/net8.0/FluentValidation.AspNetCore.dll
 /Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/bin/Debug/net8.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/obj/Debug/net8.0/eCommerce.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/bjrajaanumala/Documents/Mission_Impossible/Microservices/eCommerce.API/obj/Debug/net8.0/eCommerce.API.sourcelink.json
